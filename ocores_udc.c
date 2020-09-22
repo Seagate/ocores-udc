@@ -1550,7 +1550,7 @@ static struct platform_driver ocores_udc_driver = {
 module_platform_driver(ocores_udc_driver);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Luis Tanica <luis.f.tanica@seagate.com>");
+MODULE_AUTHOR("Luis Taniça <luis.f.tanica@seagate.com>");
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_ALIAS("platform:" DRIVER_NAME);
 

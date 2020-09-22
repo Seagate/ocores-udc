@@ -35,7 +35,7 @@ Please refer to the [contributing document](CONTRIBUTING.md) provided.
 
 ## Maintainers
 
- - Luis Tanica \<luis.f.tanica@seagate.com\>
+ - Luis Taniça \<luis.f.tanica@seagate.com\>
  - Seagate Open-Source Group \<opensource@seagate.com\>
 
 ## Acknowledgment
