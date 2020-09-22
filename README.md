@@ -33,6 +33,11 @@ make -C /path/to/kernel/source M=${PWD} modules_install
 
 Please refer to the [contributing document](CONTRIBUTING.md) provided.
 
+## Maintainers
+
+ - Luis Tanica \<luis.f.tanica@seagate.com\>
+ - Seagate Open-Source Group \<opensource@seagate.com\>
+
 ## Acknowledgment
 
 During the development of this driver, Xilinx UDC driver was used as a reference driver (`udc-xilinx.c`),
