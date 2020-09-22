@@ -29,6 +29,10 @@ make -C /path/to/kernel/source M=${PWD}
 make -C /path/to/kernel/source M=${PWD} modules_install
 ```
 
+## Contributing
+
+Please refer to the [contributing document](CONTRIBUTING.md) provided.
+
 ## Acknowledgment
 
 During the development of this driver, Xilinx UDC driver was used as a reference driver (`udc-xilinx.c`),
