@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*
- * OpenCores USB 1.1 Device Controller Driver
+ * OpenCores USB 1.1 Device Controller Driver <opensource@seagate.com>
  *
  * Copyright (C) 2020 by Seagate Technology, LLC
  *

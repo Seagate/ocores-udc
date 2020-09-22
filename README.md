@@ -36,5 +36,5 @@ as well as a previous version of the this same driver created by David W. Miller
 
 ## License
 
-Copyright © 2020 by Seagate Technology, LLC.
+Copyright © 2020 by Seagate Technology, LLC \<opensource@seagate.com\>.
 Released under [GPLv2 License](LICENSE).
